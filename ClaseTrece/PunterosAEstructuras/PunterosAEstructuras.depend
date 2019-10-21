@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571152541 source:d:\clasetrece\punterosaestructuras\apuntes.c
+
+1571153024 source:d:\clasetrece\punterosaestructuras\funciones.c
+	"funciones.h"
+
+1571151059 d:\clasetrece\punterosaestructuras\funciones.h
+	<stdio.h>
+	<stdlib.h>
+

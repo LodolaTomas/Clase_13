@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571142118 source:d:\clasetrece\funciones.c
+
+1571149643 source:d:\clasetrece\apuntes.c
+
+1571149643 source:d:\clasetrece\main.c
+	"funciones.h"
+
+1571150116 d:\clasetrece\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
